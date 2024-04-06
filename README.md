@@ -17,3 +17,4 @@ ________________________________________________________________________________
 
 
 <a href="https://www.coffeebede.com/8damird2"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://hamibash.com/8damird2"><img class="sponser" src="https://bayanbox.ir/view/3251453818529911915/Sponsor.png"/></a>
