@@ -13,3 +13,7 @@ ________________________________________________________________________________
 ۲- اختصاص  آیپی به سرور مورد نظر 
 ۳-اجرای اتومیشن تمام! 
 رفرنس = https://www.digiboy.ir/11924/digibox-12/#more-11924
+
+
+
+<a href="https://www.coffeebede.com/8damird2"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
