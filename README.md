@@ -1,5 +1,5 @@
 # Automation-KMS-Server
-When you wawnt push a num to active your Windows OR Office
+When you want push a num to active your Windows OR Office
 The automation communicates with the KMS server through a data exchange, only offline, if you want the online version of this automation to connect with the sites, please let me know in my telegram @ uodada
 Requirements:
 1-Download and install the prepared server (the link is inserted below)
