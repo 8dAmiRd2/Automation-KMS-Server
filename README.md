@@ -14,9 +14,10 @@ ________________________________________________________________________________
 ۱-دانلود و نصب سرور آماده شده(لینک همین زیر درج شده)
 ۲- اختصاص  آیپی به سرور مورد نظر 
 ۳-اجرای اتومیشن تمام! 
+
 لینک = https://www.digiboy.ir/11924/digibox-12/#more-11924
 
 باتشکر ویژه از 🫀: www.digiboy.ir
 
-<a href="https://www.coffeebede.com/8damird2"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://www.coffeebede.com/8damird2"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200" height="150"/></a>
 <a href="https://hamibash.com/8damird2"><img class="sponser" src="https://bayanbox.ir/view/3251453818529911915/Sponsor.png" width="200" height="150"/></a>
