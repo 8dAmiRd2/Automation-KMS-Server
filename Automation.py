@@ -20,6 +20,7 @@ def Office():
       result = subprocess.run("cd C:\Program Files\Microsoft Office\Office16",shell=True, stdout=subprocess.PIPE)
       result = subprocess.run("cscript ospp.vbs /sethst:" + IP,shell=True, stdout=subprocess.PIPE)
       result = subprocess.run("cscript ospp.vbs /act",shell=True, stdout=subprocess.PIPE)
+#Check Connection With KMS-Server
 def ping_server():
       response = os.system("ping -c 1 "+IP)
       if response == 1:
@@ -28,6 +29,7 @@ def ping_server():
       else:
             print(f"Server {IP} is down.")
             return False
+#Loop user interface
 while True:
       user = input ("Choose your Function: ")
       if user == "0":
